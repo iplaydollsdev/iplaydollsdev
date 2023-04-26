@@ -1,9 +1,9 @@
 ### Hi there 👋
  - 💬My name is Maxim, you can call me Max!
  - 💬I'm a C# developer and making games in Unity as a hobby :3
-💬I'm learning .NET, ASP.NET, HTML and CSS for being able to make web-apps!
+ - 💬I'm learning .NET, ASP.NET, HTML and CSS for being able to make web-apps!
 
-You can easily reach me by 📫Email: iplaydollsdev@gmail.com 
+ - You can easily reach me by 📫Email: iplaydollsdev@gmail.com 
 
 <!--
 **iplaydollsdev/iplaydollsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
