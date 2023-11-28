@@ -83,8 +83,7 @@ Client -> Server
     {
       "guid": "TableGuid_1",
       "status": "busy",
-      "openTime": "27-11-2023 15:03",
-      "orderNumber": "13"
+      "start_time": "27-11-2023 15:03",
     }
   ],
   "id": "Guid_3"
